@@ -1,1 +1,1 @@
-# Detec-o-de-Fraudes-em-Cart-es-de-Cr-dito
+# Feito uma analise Detecção de Fraudes em Cartões de Crédito - Modelo Machine Learning
